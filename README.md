@@ -1,2 +1,3 @@
 # demo
-demo git repository
+This is a demo git repository
+
